@@ -1,31 +1,34 @@
-# main links links
-main:
-  - title: "Publications"
-    url: /publications/
+# Site navigation links
 
-  - title: "Teaching"
-    url: /teaching/  
+#- title: CV
+#  url: /cv
 
-  # - title: "Team"
-  #   url: /Team/  
+- title: Home
+  url: 
+  
+ #{{ site.url }}
+  
+  
+- title: Research
+  url: /research
 
-  - title: "Talks"
-    url: /talks/  
+#- title: Teaching
+#  url: /teaching
 
-  - title: "Services"
-    url: /services/  
+- title: Publications
+  url: /publications
 
-  - title: "Awards"
-    url: /awards/ 
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+#- title: Blog
+#  url: /posts
+ 
+- title: Code
+  url: /code
+ 
+- title: Academic Services
+  url: /services
+  
+- title: Awards
+  url: /awards
+
+#- title: Theme Setup
+#  url: /theme-setup/
